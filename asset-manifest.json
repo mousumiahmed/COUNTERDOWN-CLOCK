@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mousumiahmed/counterdown-clock.git/static/css/main.01a7d6e6.css",
-    "main.js": "/mousumiahmed/counterdown-clock.git/static/js/main.e42e4e99.js",
-    "static/js/787.c5096063.chunk.js": "/mousumiahmed/counterdown-clock.git/static/js/787.c5096063.chunk.js",
-    "index.html": "/mousumiahmed/counterdown-clock.git/index.html",
-    "main.01a7d6e6.css.map": "/mousumiahmed/counterdown-clock.git/static/css/main.01a7d6e6.css.map",
-    "main.e42e4e99.js.map": "/mousumiahmed/counterdown-clock.git/static/js/main.e42e4e99.js.map",
-    "787.c5096063.chunk.js.map": "/mousumiahmed/counterdown-clock.git/static/js/787.c5096063.chunk.js.map"
+    "main.css": "/counterdown-clock/static/css/main.01a7d6e6.css",
+    "main.js": "/counterdown-clock/static/js/main.1428881f.js",
+    "static/js/787.c5096063.chunk.js": "/counterdown-clock/static/js/787.c5096063.chunk.js",
+    "index.html": "/counterdown-clock/index.html",
+    "main.01a7d6e6.css.map": "/counterdown-clock/static/css/main.01a7d6e6.css.map",
+    "main.1428881f.js.map": "/counterdown-clock/static/js/main.1428881f.js.map",
+    "787.c5096063.chunk.js.map": "/counterdown-clock/static/js/787.c5096063.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01a7d6e6.css",
-    "static/js/main.e42e4e99.js"
+    "static/js/main.1428881f.js"
   ]
 }
